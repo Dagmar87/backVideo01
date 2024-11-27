@@ -22,3 +22,7 @@ Para rodar o projeto html, deve seguir os seguintes passos:
 ## Referências
 
 How TO - Fullscreen Video (https://www.w3schools.com/howto/howto_css_fullscreen_video.asp)
+
+## Execução da aplicação no Vercel
+
+Link da Aplicação: https://back-video01.vercel.app/
